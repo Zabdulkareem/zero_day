@@ -5,4 +5,4 @@ _Vagrant_ is a type of virtual machine which emulates a computer system. Virtual
 provides a virtual substitution for a real machine and provide functionality need to
 execute entire operating system or computer programs.
 
-######uname is a command in linux that displays the system information of your computer.
+###### uname is a command in linux that displays the system information of your computer.
